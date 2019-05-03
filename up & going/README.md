@@ -8,11 +8,11 @@
 
 -----
 
-[Table of Contents](toc.md)
+[Зміст](toc.md)
 
-* [Foreword](foreword.md) (by [Jenn Lukas](http://jennlukas.com))
+* [Передмова](foreword.md) (by [Jenn Lukas](http://jennlukas.com))
 * [Preface](../preface.md)
-* [Chapter 1: Into Programming](ch1.md)
-* [Chapter 2: Into JavaScript](ch2.md)
-* [Chapter 3: Into YDKJS](ch3.md)
+* [Розділ 1: Вступ у програмування](ch1.md)
+* [Розділ 2: Вступ у JavaScript](ch2.md)
+* [Розділ 3: Вступ у  YDKJS](ch3.md)
 * [Appendix A: Thank You's!](apA.md)
