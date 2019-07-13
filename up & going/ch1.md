@@ -17,9 +17,15 @@ If you're already fairly comfortable with JavaScript, first check out Chapter 3 
 
 Let's start from the beginning.
 
+Почнемо з початку.
+
 A program, often referred to as *source code* or just *code*, is a set of special instructions to tell the computer what tasks to perform. Usually code is saved in a text file, although with JavaScript you can also type code directly into a developer console in a browser, which we'll cover shortly.
 
+Програма, або просто код, це є набір інструкцій, які говорять компютеру, які *завдання* виконувати. Зазвичай код зберігаєтся у вигляді текстового файла, хоча з JavaScript ви можете також набирати код в консолі розробника у браузері, про що ми поговоримо пізніше.
+
 The rules for valid format and combinations of instructions is called a *computer language*, sometimes referred to as its *syntax*, much the same as English tells you how to spell words and how to create valid sentences using words and punctuation.
+
+Правила для правильного формату і комбінація інтсрукцій називаєтся мовою *програмування*, або синтаксис, подібно до того, як англіська мова задає правила, як вимовляти слова або як писати граматично правильні речення використовуючи слова і знаки пунктуації.
 
 ### Statements
 
